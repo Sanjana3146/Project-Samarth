@@ -30,6 +30,7 @@ It enables users to visualize, compare, and analyze agricultural patterns across
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Sgtrhodey007/Project-Samarth.git
+   git clone https://github.com/Sanjana3146/Project-Samarth.git
    cd Project-Samarth
+
 
